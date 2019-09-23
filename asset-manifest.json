@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Ilyacheredov1/store/static/css/main.b6bbc575.chunk.css",
-    "main.js": "/Ilyacheredov1/store/static/js/main.20d75c35.chunk.js",
-    "main.js.map": "/Ilyacheredov1/store/static/js/main.20d75c35.chunk.js.map",
-    "runtime~main.js": "/Ilyacheredov1/store/static/js/runtime~main.c80023d1.js",
-    "runtime~main.js.map": "/Ilyacheredov1/store/static/js/runtime~main.c80023d1.js.map",
-    "static/css/2.266e55a5.chunk.css": "/Ilyacheredov1/store/static/css/2.266e55a5.chunk.css",
-    "static/js/2.be3c5850.chunk.js": "/Ilyacheredov1/store/static/js/2.be3c5850.chunk.js",
-    "static/js/2.be3c5850.chunk.js.map": "/Ilyacheredov1/store/static/js/2.be3c5850.chunk.js.map",
-    "index.html": "/Ilyacheredov1/store/index.html",
-    "precache-manifest.a26eb42fcf7f261444545d87d828345e.js": "/Ilyacheredov1/store/precache-manifest.a26eb42fcf7f261444545d87d828345e.js",
-    "service-worker.js": "/Ilyacheredov1/store/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/Ilyacheredov1/store/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.b6bbc575.chunk.css.map": "/Ilyacheredov1/store/static/css/main.b6bbc575.chunk.css.map",
-    "static/media/logo.svg": "/Ilyacheredov1/store/static/media/logo.9f7e506d.svg"
+    "main.css": "/Ilyacheredov1/store/./static/css/main.b6bbc575.chunk.css",
+    "main.js": "/Ilyacheredov1/store/./static/js/main.89059128.chunk.js",
+    "main.js.map": "/Ilyacheredov1/store/./static/js/main.89059128.chunk.js.map",
+    "runtime~main.js": "/Ilyacheredov1/store/./static/js/runtime~main.8cd5931d.js",
+    "runtime~main.js.map": "/Ilyacheredov1/store/./static/js/runtime~main.8cd5931d.js.map",
+    "static/css/2.266e55a5.chunk.css": "/Ilyacheredov1/store/./static/css/2.266e55a5.chunk.css",
+    "static/js/2.50d720d1.chunk.js": "/Ilyacheredov1/store/./static/js/2.50d720d1.chunk.js",
+    "static/js/2.50d720d1.chunk.js.map": "/Ilyacheredov1/store/./static/js/2.50d720d1.chunk.js.map",
+    "index.html": "/Ilyacheredov1/store/./index.html",
+    "precache-manifest.06043b77077a6636585b33f8844d3c5f.js": "/Ilyacheredov1/store/./precache-manifest.06043b77077a6636585b33f8844d3c5f.js",
+    "service-worker.js": "/Ilyacheredov1/store/./service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/Ilyacheredov1/store/./static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.b6bbc575.chunk.css.map": "/Ilyacheredov1/store/./static/css/main.b6bbc575.chunk.css.map",
+    "static/media/logo.svg": "/Ilyacheredov1/store/./static/media/logo.9f7e506d.svg"
   }
 }
