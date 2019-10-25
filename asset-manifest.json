@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.5908505a.chunk.css",
-    "main.js": "/static/js/main.8814baa4.chunk.js",
-    "main.js.map": "/static/js/main.8814baa4.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.03172028.js",
-    "runtime~main.js.map": "/static/js/runtime~main.03172028.js.map",
-    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
-    "static/js/2.1d8c7f92.chunk.js": "/static/js/2.1d8c7f92.chunk.js",
-    "static/js/2.1d8c7f92.chunk.js.map": "/static/js/2.1d8c7f92.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.929281f917c71c63883bef5d6720c0f1.js": "/precache-manifest.929281f917c71c63883bef5d6720c0f1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.5908505a.chunk.css.map": "/static/css/main.5908505a.chunk.css.map"
+    "main.css": "/store-react/home/static/css/main.5908505a.chunk.css",
+    "main.js": "/store-react/home/static/js/main.af616c93.chunk.js",
+    "main.js.map": "/store-react/home/static/js/main.af616c93.chunk.js.map",
+    "runtime~main.js": "/store-react/home/static/js/runtime~main.a856113f.js",
+    "runtime~main.js.map": "/store-react/home/static/js/runtime~main.a856113f.js.map",
+    "static/css/2.266e55a5.chunk.css": "/store-react/home/static/css/2.266e55a5.chunk.css",
+    "static/js/2.1d8c7f92.chunk.js": "/store-react/home/static/js/2.1d8c7f92.chunk.js",
+    "static/js/2.1d8c7f92.chunk.js.map": "/store-react/home/static/js/2.1d8c7f92.chunk.js.map",
+    "index.html": "/store-react/home/index.html",
+    "precache-manifest.ba704eb5efc3b70f93b779f58b11f2a7.js": "/store-react/home/precache-manifest.ba704eb5efc3b70f93b779f58b11f2a7.js",
+    "service-worker.js": "/store-react/home/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/store-react/home/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.5908505a.chunk.css.map": "/store-react/home/static/css/main.5908505a.chunk.css.map"
   }
 }
